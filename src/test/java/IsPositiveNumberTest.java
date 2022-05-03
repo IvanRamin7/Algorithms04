@@ -17,6 +17,7 @@ public class IsPositiveNumberTest {
 
     @Test
     public void IsPositiveNumberZero() {
+
         int incoming = 0;
         boolean expectedResult = true;
 
