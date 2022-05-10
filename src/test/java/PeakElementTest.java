@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class PeakElementTest {
 
+
     @Test
     public void testPeakElement() {
         int[] incoming = {3, 2, 7, 5, 1, 9, 23, 1};
